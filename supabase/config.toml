@@ -1,0 +1,10 @@
+project_id = "kzseqdjipvebudqomuco"
+
+[functions.university-data-processor]
+verify_jwt = false
+
+[functions.recommendation-engine]
+verify_jwt = true
+
+[functions.data-import-tool]
+verify_jwt = false
